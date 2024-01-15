@@ -45,6 +45,16 @@
     .about-containers {
       margin-top: 0;
     }
+
+    .about-pic {
+      width: 100%;
+      height: 40vh;
+      margin-top: 10PX;
+    }
+
+    .special-details-container {
+      margin-top: 100px;
+    }
   }
   
   @media screen and (max-width: 600px) {

@@ -98,10 +98,10 @@ a:hover {
     top: 100%; 
     right: 0;
     background-color: white;
-    width: fit-content;
+    width: 100vw;
     max-height: 0;
     overflow: hidden;
-    transition: all 0.3 ease-in-out; 
+    transition: all 0.8 ease-in-out; 
 }
 
 .menu-links a {
